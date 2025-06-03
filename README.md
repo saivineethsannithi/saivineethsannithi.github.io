@@ -70,7 +70,7 @@ This project demonstrates how I deployed the **ELK Stack (Elasticsearch, Logstas
 
 ---
 
-## 📈 Results
+## Results
 
 Logs from Kali Linux (e.g., `/var/log/syslog`, `/var/log/auth.log`) were successfully shipped by Filebeat and visualized in Kibana, completing a full ELK Stack pipeline. This project proves my ability to configure a functional SIEM pipeline using open-source tools.
 
