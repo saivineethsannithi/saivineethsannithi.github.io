@@ -1,10 +1,10 @@
-# 📊 SIEM Portfolio Project: Deploying ELK Stack with Filebeat on Kali Linux
+# SIEM Portfolio Project: Deploying ELK Stack with Filebeat on Kali Linux
 
 This project demonstrates how I deployed the **ELK Stack (Elasticsearch, Logstash, Kibana)** and configured **Filebeat** to collect and visualize logs on **Kali Linux**, simulating a basic Security Information and Event Management (SIEM) solution.
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Kali Linux 2025.1**
 - **Elasticsearch 8.18.2**
@@ -18,38 +18,44 @@ This project demonstrates how I deployed the **ELK Stack (Elasticsearch, Logstas
 
 ## ⚙️ Project Setup and Configuration
 
-### ✅ Step 1: Installed Java
-![Install Java](install%20java.png)
+### Step 1: Installed Java
 
-### ✅ Step 2: Added Elastic GPG key and Repository
-![Elastic GPG and Repo Setup](updating%20elastic%20gpg,repository%20adn%20install%20elasticsearch%20logstach%20and%20kibana.png)
+![install java](https://github.com/user-attachments/assets/5d3a80a0-2c1b-4957-95ce-f002e8611b57)
 
-### ✅ Step 3: Installed Elasticsearch, Logstash, and Kibana
-(See image above)
+### Step 2: Added Elastic GPG key and Repository
 
-### ✅ Step 4: Generated Enrollment Token for Kibana
-![Enrollment Token](token%20enrollment%20in%20kibana.png)
+![updating elastic gpg,repository adn install elasticsearch logstach and kibana](https://github.com/user-attachments/assets/84a3b180-c175-4a23-a459-577daa48dead)
 
-### ✅ Step 5: Logged Into Kibana with Token
-![Kibana Login](logining%20into%20elk.png)
+### Step 3: Installed Elasticsearch, Logstash, and Kibana
+![updating elastic gpg,repository adn install elasticsearch logstach and kibana](https://github.com/user-attachments/assets/c7f1587d-3d51-4eb2-8f3f-afebfdf182fd)
 
-### ✅ Step 6: Completed Kibana Setup
-![Kibana Setup](settings%20up%20kibana.png)
 
-### ✅ Step 7: Enabled and Started Elastic Services
-![Enable Services](creaated%20filebeat%20and%20enable%20logstach,elasticsearch%20and%20kibana.png)
+###  Step 4: Generated Enrollment Token for Kibana
+![token enrollment in kibana](https://github.com/user-attachments/assets/7a180b18-d2bd-489c-ac47-0d22841edbcf)
 
-### ✅ Step 8: Configured Filebeat to Ship Logs
-![Filebeat Configuration](configure%20filebeat.png)
+### Step 5: Logged Into Kibana with Token
+![logining into elk](https://github.com/user-attachments/assets/c57df9be-3225-4ddb-b993-f319f99aab2d)
 
-### ✅ Step 9: Added Sysmon for Linux Integration
-![Sysmon Integration](adding%20systems.png)
+###  Step 6: Completed Kibana Setup
+![settings up kibana](https://github.com/user-attachments/assets/cfe7a694-8392-4dab-9548-24367f54e5e0)
 
-### ✅ Step 10: Verified Filebeat Was Running
-![Filebeat Active Status](checking%20thefilebeat%20is%20active.png)
+###  Step 7: Enabled and Started Elastic Services
+![creaated filebeat and enable logstach,elasticsearch and kibana](https://github.com/user-attachments/assets/ae84e6a1-f18c-42b6-a86f-712c0a82643b)
 
-### ✅ Step 11: Simulated Log Generation
-![Log Simulation](stimulating%20the%20logs.png)
+###  Step 8: Configured Filebeat to Ship Logs
+![configure filebeat](https://github.com/user-attachments/assets/a63d48dc-311d-44a4-b95e-4e751a7745eb)
+
+###  Step 9: Added Sysmon for Linux Integration
+![adding systems](https://github.com/user-attachments/assets/85e348e4-7c52-420d-80df-fab7070fd0d3)
+
+###  Step 10: Verified Filebeat Was Running
+![checking thefilebeat is active](https://github.com/user-attachments/assets/0f04508f-0b5e-4c6c-8383-1432f3964661)
+
+###  Step 11: Simulated Log Generation
+![stimulating the logs](https://github.com/user-attachments/assets/089ef4cb-1f1b-4e25-b4f5-082bd3d7bd6c)
+
+### step12: Sucessfully Generted Timestamp In Kibana
+![timestamp of logs](https://github.com/user-attachments/assets/d3fd8eb4-a353-43fd-ac68-22261b0e061b)
 
 ---
 
@@ -82,23 +88,8 @@ Logs from Kali Linux (e.g., `/var/log/syslog`, `/var/log/auth.log`) were success
 
 ---
 
-## 📸 All Screenshots
-(Ensure these are added to your GitHub repo)
-
-- `install java.png`
-- `updating elastic gpg,repository adn install elasticsearch logstach and kibana.png`
-- `token enrollment in kibana.png`
-- `logining into elk.png`
-- `settings up kibana.png`
-- `creaated filebeat and enable logstach,elasticsearch and kibana.png`
-- `configure filebeat.png`
-- `adding systems.png`
-- `checking thefilebeat is active.png`
-- `stimulating the logs.png`
-
----
 
 ## 📬 Contact
 
-Feel free to reach out to me on [Your LinkedIn/GitHub Email].
+Feel free to reach out to me on [https://www.linkedin.com/in/saivineeth-sannithi-123278187/vineethsannithi1998@gmail.com].
 
