@@ -16,7 +16,7 @@ This project demonstrates how I deployed the **ELK Stack (Elasticsearch, Logstas
 
 ---
 
-## ⚙️ Project Setup and Configuration
+##  Project Setup and Configuration
 
 ### Step 1: Installed Java
 
