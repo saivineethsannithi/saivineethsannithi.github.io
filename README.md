@@ -59,7 +59,7 @@ This project demonstrates how I deployed the **ELK Stack (Elasticsearch, Logstas
 
 ---
 
-## 💡 Challenges & Resolutions
+##  Challenges & Resolutions
 
 | Challenge | Solution |
 |----------|----------|
@@ -76,7 +76,7 @@ Logs from Kali Linux (e.g., `/var/log/syslog`, `/var/log/auth.log`) were success
 
 ---
 
-## 🚀 How to Run This Setup
+##  How to Run This Setup
 
 1. Clone this repository and install Java.
 2. Add the Elastic GPG key and repo.
@@ -89,7 +89,7 @@ Logs from Kali Linux (e.g., `/var/log/syslog`, `/var/log/auth.log`) were success
 ---
 
 
-## 📬 Contact
+##  Contact
 
 Feel free to reach out to me on [https://www.linkedin.com/in/saivineeth-sannithi-123278187/vineethsannithi1998@gmail.com].
 
