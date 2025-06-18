@@ -1,58 +1,56 @@
+# 👨‍💻 Sai Vineeth Sannithi - Cybersecurity Portfolio
 
-# 🧑‍💻 Saivineeth Sannithi – Cybersecurity Portfolio
-
-Welcome to my cybersecurity portfolio! I’m a results-oriented cybersecurity analyst with hands-on experience in threat detection, phishing analysis, and SIEM tools. This GitHub serves as a showcase of the practical projects I’ve developed during my studies and internship, including virtual labs and log analysis setups.
-
----
-
-## 📄 Resume
-
-[📄 View My Resume (PDF)](./SAIVINEETH_SANNITHI_CV.pdf)
+Welcome to my GitHub portfolio! I'm a highly motivated cybersecurity professional with a strong background in phishing detection, transaction processing, and hands-on experience using key security tools. My goal is to contribute to a robust security team and grow in the field of penetration testing and incident response.
 
 ---
 
-## 📦 Projects
+## 🛡️ About Me
 
-### 🔐 [Cybersecurity Demonstration Lab using VirtualBox.
-Github Repo: https://github.com/saivineethsannithi/Cybersecurity-Demonstration-Lab-using-VirtualBox
-
-
-Simulates real-world cyberattacks such as:
-- Phishing with MaxPhisher
-- Man-in-the-Middle (MITM) using Bettercap
-- DDoS using Nmap and Hping3
-- Ransomware with WannaCry sample
-
-> **Outcome**: Demonstrated ability to detect and analyze threats in a virtual environment using Kali Linux and Windows 7 VMs.
+- 🎓 **MSc Cybersecurity**, Teesside University (2022–2024) – *Merit*
+- 💼 2+ years experience as a Transaction Processing Associate at **Accenture India**
+- 🎯 Proficient in detecting phishing threats, managing secure workflows, and analyzing logs.
+- 👮 Completed an **internship with Cleveland Police** focused on cyber threat simulations and platform development.
+- 📜 Holder of the **Google Cybersecurity Certificate**
+- 💻 Passionate about continuous learning and penetration testing through platforms like **TryHackMe** (Completed Junior Penetration Tester Path)
 
 ---
 
-### 📊 [Deploying ELK Stack with Filebeat on Kali.
-Github Repo: https://github.com/saivineethsannithi/Deploying-ELK-Stack-with-Filebeat-on-Kali-Linux
+## 🧰 Technical Skills
 
-Sets up a working SIEM lab using:
-- **Elasticsearch**, **Logstash**, **Kibana** for data visualization
-- **Filebeat** to ship system logs to Logstash
-- Real-world use case examples like failed logins and suspicious behavior
-
-> **Outcome**: Built dashboards and detection rules using open-source SIEM for security event monitoring.
+- **Operating Systems:** Kali Linux, Windows, Linux Administration
+- **Security Tools:** Nmap, Nessus, Metasploit, Wireshark.
+- **SIEM/SOAR:** ELK Stack
+- **Core Skills:** Log Analysis, Threat Detection, Incident Response
+- **Soft Skills:** Teamwork, Communication, Time Management, Attention to Detail
 
 ---
 
-## 🚀 Goals
+## 🔍 Featured Projects
 
-- Expand experience with threat hunting and SOC playbooks
-- Continue building hands-on labs for detection engineering
-- Contribute to open-source projects and community CTFs
+### 📊 ELK Stack SIEM Lab (Kali Linux)
+github repo: https://github.com/saivineethsannithi/Deploying-ELK-Stack-with-Filebeat-on-Kali-Linux
+- Set up Elasticsearch, Logstash, Kibana, and Filebeat on Kali Linux to ingest and visualize logs.
+- Demonstrated incident response and threat detection capabilities using log analysis.
+
+### 🎓 Internship Cyber Threat Platform (Cleveland Police)
+Github repo: https://github.com/saivineethsannithi/Cybersecurity-Demonstration-Lab-using-VirtualBox
+- Simulated phishing, MitM, malware, and DDoS attacks on a modular VM platform.
+- Designed a flexible plugin-based architecture for continuous learning.
+
+### 🧪 TryHackMe Labs
+- Completed the **Jr. Penetration Tester Path**
+- Gained practical skills in vulnerability scanning, web exploitation, and password cracking.
 
 ---
 
-## 📫 Connect with Me
+## 📫 Contact Me
 
-- LinkedIn: [linkedin.com/in/saivineeth-sannithi-12](https://www.linkedin.com/in/saivineeth-sannithi-12)
-- Email: vineethsannithi19989@gmail.com
+- 📧 Email: vineethsannithi19989@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/saivineeth-sannithi-12](https://www.linkedin.com/in/saivineeth-sannithi-12)
+- 📍 Middlesbrough, UK  
 
 ---
 
-_This portfolio was built to demonstrate practical cybersecurity knowledge through reproducible labs and real-world tools._
-****
+> ⚡ Let's connect and secure the digital world together!
+
+
