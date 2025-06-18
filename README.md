@@ -15,6 +15,17 @@ Welcome to my GitHub portfolio! I'm a highly motivated cybersecurity professiona
 
 ---
 
+🏅 Certifications
+Certification	Issuing Organization	
+- Security Analyst Certificate Programme	Reliance Foundation Skilling Academy	
+- Networking Basics	Cisco
+- Introduction to Cybersecurity	Cisco	
+- Vulnerability Scanning with Nmap: Network Scanning	Coursera Project Network
+- Cybersecurity Job Simulation	Mastercard (via Forage)	
+- Jr. Penetration Tester Learning Path	TryHackMe	
+- Google Cybersecurity Professional Certificate	Google	
+---
+
 ## 🧰 Technical Skills
 
 - **Operating Systems:** Kali Linux, Windows, Linux Administration
