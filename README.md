@@ -48,6 +48,11 @@ Github repo: https://github.com/saivineethsannithi/Cybersecurity-Demonstration-L
 - Simulated phishing, MitM, malware, and DDoS attacks on a modular VM platform.
 - Designed a flexible plugin-based architecture for continuous learning.
 
+###📡 Wireshark Network Traffic Analysis (Kali Linux)
+GitHub Repo: https://github.com/saivineethsannithi/wireshark-network-analysis
+- Captured and analyzed network traffic using Wireshark to identify threats like port scanning and unencrypted credential transmission.
+- Applied deep packet inspection and custom filters to simulate real-world incident investigation scenarios.
+  
 ### 🧪 TryHackMe Labs
 - Completed the **Jr. Penetration Tester Path**
 - Gained practical skills in vulnerability scanning, web exploitation, and password cracking.
